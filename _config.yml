@@ -1,0 +1,39 @@
+safe:        false
+port:        4000
+
+source:      .
+destination: ./_site
+
+future:      true
+lsi:         false
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink:   /:year/:month/:title
+
+title:       Notebook
+description: Personal content management system for my life.
+author:      Jenner Hanni
+email:       jeh.wicker@gmail.com
+
+exclude:     [_site]
+
+collections: 
+  mindwork:
+    name: Mindwork
+    url: /mindwork/
+    output: true
+    permalink: /mindwork/:title/
+  wickerlib:
+    name: Wickerlib
+    url: /wickerlib/
+    output: true
+    permalink: /wickerlib/:title/
+  circuits:
+    name: Circuits
+    url: /circuits/
+    output: true
+    permalink: /circuits/:title/
+  journal: 
+    name: Journal
+    url: /journal/
+    output: true
+    permalink: /journal/:title/  
