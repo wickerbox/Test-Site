@@ -4,5 +4,3 @@ title: Mindwork
 permalink: /mindwork/
 ---
 
-### Background
-

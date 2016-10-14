@@ -18,21 +18,8 @@ permalink: /circuits/
 
     <div class="clear">&nbsp;</div>
 
-    {% if thisyear != '2020' %}
-      <h4 style="text-align:center;"><a id="{{thisyear}}" style="color: #5e6198;">{{ thisyear }}</a></h4>
-    {% else %}
-      <h4 style="text-align:center; color: #5e6198">Howto</h4>
-    {% endif %}
+    <h5 style="text-align:center;"><a id="{{thisyear}}" style="color: #000;">{{ thisyear }}</a></h5>
 
-    {% if thisyear == '2014' %}
-      Still heavily involved with PSAS, I worked with the airframes team. I also started consulting to build small hardware prototype designs. Very much still getting the hang of things. 
-    {% elsif thisyear == '2015' %}
-      I incorporated my company as an LLC in the summer after the Grand Canyon trip. Went full time at OSH Park and started picking up jobs out of the OSH Park queue. 
-    {% elsif thisyear == '2016' %}
-    Started out with OSH Park demo boards, Brown Dog Gadgets Lego prototypes, a BLDC16 motor build, and then swung into BlueROV and Art of Electronics territory.
-    {% elsif thisyear == '2020' %}
-    Partly for Wickerbox and partly for The Weekly Circuit. 
-    {% endif %}
     {% assign firstyear = false %}
 	  <div class="clear">&nbsp;</div>
 	{% endif %}

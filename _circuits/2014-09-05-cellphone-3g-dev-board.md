@@ -1,5 +1,5 @@
 ---
-layout: circuits
+layout: post
 title: DIY Cellphone 3G Build
 subcat: hardware 
 image: /img/thumbs/cellboard.png

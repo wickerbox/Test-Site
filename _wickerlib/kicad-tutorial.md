@@ -1,9 +1,7 @@
 ---
-layout: toolbox
+layout: post
 title: KiCad Tutorial
-permalink: /circuits/kicad/
-image: /img/thumbs/kicad.png
-num: 10
+permalink: /wickerlib/tutorial-draft/
 ---
 
 KiCad is a free, open source PCB design tool that has no board area limits and no commercial restrictions.

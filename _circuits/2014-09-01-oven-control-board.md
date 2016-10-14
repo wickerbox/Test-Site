@@ -1,5 +1,5 @@
 ---
-layout: circuits
+layout: post
 title: Oven Control Board
 subcat: hardware
 image: /img/thumbs/ovenboard3.png

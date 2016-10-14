@@ -1,5 +1,36 @@
-h1 { text-align:center; }
+h1,h2,h3,h4,h5 { text-align:center; }
 
-body { background-color: #eaeaea; }
+body { background-color: #eaeaea;  }
 
 .container { background-color :#fff }
+.padded { padding: 20px; }
+.clear {clear:both;}
+a, a:visited {color: #201da5; text-decoration: none; }
+
+a:hover {color: #1916dd}
+
+.main-content { text-align:justify; }
+
+.inside { padding: 30px; }
+
+.blogthumb {
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  padding-bottom: 10px;
+  text-align:center;
+  margin: 10px;
+  width: 30%;
+  float: left;
+}
+
+.blogthumb-link {
+  height: 40px;
+  line-height: 20px;
+  overflow: hidden;
+}
+
+.clear { clear:both; }
+
+img { width: 100%; }
+
+

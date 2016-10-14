@@ -1,5 +1,5 @@
 ---
-layout: circuits
+layout: post
 title: STM32F4 Discovery Breakout
 image: /img/thumbs/stm32breakout.png
 ---

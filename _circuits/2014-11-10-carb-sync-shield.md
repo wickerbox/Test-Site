@@ -1,5 +1,5 @@
 ---
-layout: circuits
+layout: post
 title: Carb Sync Shield
 subcat: hardware 
 image: /img/thumbs/carbsync.png

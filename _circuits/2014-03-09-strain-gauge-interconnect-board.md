@@ -1,5 +1,5 @@
 ---
-layout: circuits
+layout: post
 title: Strain Gauge Amplifier Board v1
 image: /img/thumbs/straingauge1.png
 description: Board for measuring strain values.

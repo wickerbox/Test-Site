@@ -1,5 +1,5 @@
 ---
-layout: circuits
+layout: post
 title: GetPixels
 image: /img/thumbs/getpixels.png
 description: Get pixel values out of an image. 
